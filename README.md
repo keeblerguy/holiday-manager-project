@@ -16,3 +16,5 @@ The JSON location refers to the holiday.JSON file and the Config location refers
 The current year is the year that you decide to utilize this project.
 
 The Jupyter Notebook that is included was where I tested the code to ensure that it was working.
+
+The image attachment is a flowchart that I created to show how the menu navigation should work along with a flowchart explanation where I go more in depth of how the menu should work.
