@@ -14,3 +14,5 @@ config_loc = ""
 The weather key is an API key you get by creating an account on the Open Weather website.
 The JSON location refers to the holiday.JSON file and the Config location refers to the output.JSON file.
 The current year is the year that you decide to utilize this project.
+
+The Jupyter Notebook that is included was where I tested the code to ensure that it was working.
